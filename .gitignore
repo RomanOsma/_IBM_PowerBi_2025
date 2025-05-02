@@ -31,3 +31,7 @@ __pycache__/
 *.mp4
 *.avi
 *.mkv
+*.csv
+*.json
+*.xlsx
+*.pbix
