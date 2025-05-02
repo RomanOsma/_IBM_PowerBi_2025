@@ -1,0 +1,8 @@
+Preguntas del Proyecto del Día 12
+---------------------------------
+
+1 - ¿La cantidad global de ventas de más de una unidad, para todos los países en su conjunto, ha aumentado o disminuido entre 2024 y 2025? ¿Cuál fue la variación porcentual entre ambos años?
+
+2 - Para el país que mayor proporción de ventas no unitarias realiza, ¿cuál fue su variación interanual entre 2024 y 2025?
+
+3 - ¿Cuál fue el país que más vio disminuir su proporción de ventas no unitarias entre 2024 y 2025?

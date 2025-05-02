@@ -1,0 +1,12 @@
+Consigna para el Proyecto del Día 13
+------------------------------------
+
+Ahora que hemos conocido y explorado las herramientas de inteligencia de tiempo, estoy seguro de que te sientes mucho más cómodo utilizándolas. ¡Por lo tanto es hora de poner ese conocimiento a prueba en el proyecto del día de hoy! En el desafío de hoy, vamos a incorporar la dimensión del tiempo para obtener una visión más completa de la salud financiera de nuestro negocio ficticio.
+
+Imagina que nuestra empresa cierra su balance el 30 de junio de cada año, lo que significa que su año fiscal comienza el 1 de julio. Usando las herramientas de inteligencia de tiempo, queremos analizar cómo ha sido el rendimiento en términos de generación de beneficios acumulados mes a mes durante el último año fiscal en comparación con el año anterior. Este análisis nos va a ayudar a tomar decisiones informadas y, si es necesario, a realizar correcciones.
+
+También, te desafío a mostrar esta variación en los beneficios a través de una visualización adecuada, que esté segmentada por categorías de productos. Esto nos va a permitir identificar qué categorías han tenido un mejor desempeño y cuáles han empeorado su rendimiento en el último año.
+
+Por otro lado no dejes de aplicar un formato condicional sobre esa visualización para hacerla dinámica y claramente interpretable.
+
+¡Aprovecha esta oportunidad para aplicar tus conocimientos y para llevar a cabo un análisis financiero sólido! Como siempre, vas a contar con mi ayuda si la necesitas en las siguientes lecciones, pero el verdadero aprendizaje va a ocurrir solamente después de que hayas realizado tu mejor esfuerzo. Tomate el tiempo que necesites, y te aseguro que el retorno que obtendrás sobre esa inversión será super valioso para ti. Muchos éxitos.

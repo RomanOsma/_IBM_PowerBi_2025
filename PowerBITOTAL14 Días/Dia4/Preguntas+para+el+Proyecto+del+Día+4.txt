@@ -1,0 +1,29 @@
+Preguntas para el Proyecto del Día 4
+------------------------------------
+
+1. ¿Qué tipo de gráfico utilizarías para representar las ventas de las diferentes sucursales tal que sea visible a la vez en qué lugar están ubicadas?
+	• Gráfico de dispersión
+	• Gráfico de mapa
+	• Gráfico de barras
+
+2. ¿Qué tipo de gráfico nos muestra más claramente la tendencia temporal de una determinada variable?
+	• Línea
+	• Barras
+	• Torta o Anillos
+
+3. ¿Qué tipo de gráfico nos indica más claramente la composición de una determinada variable?
+	• Línea
+	• Barras
+	• Torta o Anillos
+
+4. ¿Qué tipo de gráfico representa más claramente la comparación entre diferentes categorías?
+	• Línea
+	• Barras
+	• Torta o Anillos
+	
+5. ¿En qué tipo de archivo se almacenan los metadatos de un tema de Power BI?
+	• XLSX
+	• CSV
+	• JSON
+	• TXT
+	• PNG

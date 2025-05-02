@@ -1,0 +1,26 @@
+Consignas para el Proyecto del Día 6
+------------------------------------
+
+1. Crea una nube de palabras para hallar los principales problemas mencionados por los clientes que tuvieron una mala experiencia con el servicio de atención al cliente
+
+2. Grafica el flujo de atención al cliente, desde que se recibe la llamada hasta que se obtiene una solución (satisfactoria o no), para identificar los flujos principales, y trabajar sobre ellos para reducir la cantidad de soluciones insatisfactorias.
+
+3. Realiza algunas visualizaciones básicas, y ayúdate por la exploración mediante objetos visuales de IA, para determinar las causas de los malos resultados detectados.
+
+
+Preguntas a Responder
+---------------------
+
+1. ¿Cuáles son los términos relevantes que más aparecen en una nube de palabras asociadas a las evaluaciones del sistema de atención al cliente?
+
+2. ¿En la distribución de las llamadas recibidas por el servicio de atención al cliente, hacia qué categoría se dirige el flujo principal?
+
+3. ¿A dónde se dirigen la mayor parte de las quejas recibidas?
+
+4. ¿Qué ocurre con la mayor parte de las llamadas cuya solución queda en manos del call center?
+
+5. ¿Con respecto al tiempo de atención, cuál dirías que es un elemento influyente clave en la obtención de una baja evaluación por el cliente, en el servicio de atención?
+
+6. ¿Dirías que es probable que quien realiza la atención esté condicionando el resultado en la encuesta?
+
+

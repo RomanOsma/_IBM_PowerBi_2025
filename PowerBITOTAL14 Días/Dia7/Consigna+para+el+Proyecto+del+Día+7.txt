@@ -1,0 +1,30 @@
+Consigna para el Proyecto del Día 7
+-----------------------------------
+
+Hoy tendrás que aplicar diferentes técnicas para conectarte a los datos, que en este caso están disponibles en diversos lugares:
+
+	- en una hoja de cálculos de Google en la nube
+
+	- en carpetas enteras localizadas en tu ordenador
+
+	- Y otros datos especificados a mano
+
+Una vez conectados los datos, los vas a vincular entre sí, y vas a extraer un dato que requiere de la interconexión de todos los informes disponibles. ¿Qué dato vas a extraer? El que responda a la siguiente pregunta:
+
+¿Cuál fue el monto vendido de Sets Eléctricos, a lo largo de todo el periodo, por la vendedora llamada Patricia Belén Carrara?
+
+Para hacer esto, contamos con tres informaciones básicas:
+
+	- Primero, una carpeta con transacciones distribuidas en trimestres. Deberás cargar esta información en tu ordenador, y luego importar a Power BI la carpeta completa, combinando los archivos que se encuentran en su interior. Estos registros de transacciones contienen los legajos de los vendedores y los códigos que refieren a cada uno de los artículos.
+
+	- En segundo lugar, tenemos los legajos de los vendedores, que provienen de una hoja de cálculos en la nube de Google. La idea no es que descargues ese archivo y lo conectes desde tu ordenador, sino que establezcas una conexión directa como hemos aprendido hoy. Recuerda que esto garantiza que tus datos sigan actualizados si el archivo de origen fuera modificado.
+
+	- Y tercero y último, contamos con las descripciones de los códigos de los artículos, que están disponibles en un archivo de Word, por lo cual deberás realizar la carga manual de estos datos, copiando y pegando directamente en Power BI.
+
+Para hacer este ejercicio, te voy a dejar en esta lección tanto los recursos que debes descargar, como el enlace a los que debes encontrar en la nube. No olvides que el enlace al archivo de google solo te servirá para abrirlo, pero para conectarlo tendrás que copiar el enlace de la barra superior.
+
+En resumen, la consigna es que te conectes a estas distintas fuentes de datos, que las vincules correctamente utilizando el modelo de datos, y que crees las visualizaciones necesarias para extraer el dato que responde a la pregunta que te he mencionado.
+
+Como siempre, deja que la inspiración y la curiosidad te guíen, confía en tus conocimientos, y diviértete mientras trabajas. A continuación y si lo necesitas, vas a encontrar el cuestionario que he confeccionado para ayudarte a avanzar en este desafío sin perderte en la maraña de datos, y que salgas airoso de todo esto con la respuesta en la mano. Y luego de eso, tendrás otro cuestionario, donde podrás comprobar si la respuesta que has encontrado es la correcta.
+
+Estoy ansioso por que puedas completarlo exitosamente y te estaré esperando para finalizar el día y celebrar con unos ricos mates un nuevo logro en tu camino hacia convertirte en un analista de datos.

@@ -1,0 +1,16 @@
+Consigna para el Proyecto del Día 8
+-----------------------------------
+
+Llegó la hora de dedicarnos por completo a poner en práctica los conocimientos adquiridos en este día. Como seguro te lo estás imaginando, hoy  vamos a trabajar exclusivamente en Power Query. Y el desafío que tienes por delante es el de procesar y transformar una base de datos que te vas a descargar de esta lección, pero que tiene varios errores, y no te voy a decir cuáles son.
+
+Entonces, limpia los datos, y a luego de eso aplica transformaciones de modo tal que puedas responder a las preguntas que también te voy a dejar para que te descargues. 
+
+La consigna, es que crees un código de usuario a partir de las iniciales del nombre completo de la persona, y luego un número que se corresponda con su orden de registro. El número debe partir de 1001, y seguir la cuenta agregando una unidad (es decir que le sigue 1002, 1003, y así… en función del orden en que los usuarios fueron ingresando.
+
+Entonces por ejemplo, si el primer usuario que ingresó se llama Alberto Blas Correa, su código debería ser ABC1001. 
+
+Como recomendación antes de emprender este proyecto, te voy a sugerir que te tomes el tiempo que necesites para seguir familiarizándote con la herramienta. Explora por tu cuenta las opciones disponibles y mediante prueba y error adquiere nuevos conocimientos que te ayuden a seguir preparándote para este proyecto. Cuando tengas dudas, puedes repasar las lecciones o realizar tus preguntas en el espacio de preguntas y respuestas del curso.
+
+Tienes por delante un gran desafío, pero como siempre cuentas con mi ayuda en todo el proceso. Cuentas con el cuestionario que te va a guiar paso a paso en cada una de las etapas del proceso, y luego el cuestionario para responder a las preguntas y así verificar si lo has hecho correctamente.
+
+Lo que más me interesa, es que puedas dedicarle el tiempo suficiente a explorar los datos inicialmente y a desafiar tus conocimientos. Si lo necesitas, cuentas con mi solución publicada para destrabar ese paso que más trabajo te de, y te dejo también un consejo que a mí siempre me motiva cuando tengo un desafío por delante: cambia los "tengo que"… por "puedo". En lugar de "tengo que estudiar" o "tengo que resolver un proyecto", piensa… "hoy puedo estudiar", y "puedo resolver un proyecto". ¿Ya notas la diferencia? Espero que sí. Aprovecha ese envión, y te estaré esperando… con mi solución del proyecto.

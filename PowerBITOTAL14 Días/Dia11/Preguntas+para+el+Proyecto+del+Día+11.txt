@@ -1,0 +1,8 @@
+Preguntas para el Proyecto del Día 11
+-------------------------------------
+
+1 - ¿Cuáles son los dos países que se apartan más del resto en el gráfico de dispersión?
+
+2 - ¿Cuáles son los dos países que se destacan por el tamaño de su burbuja en la visualización?
+
+3 - ¿Cuál es el PBI por habitante calculado en USD para el país que se encuentra en Oceanía?

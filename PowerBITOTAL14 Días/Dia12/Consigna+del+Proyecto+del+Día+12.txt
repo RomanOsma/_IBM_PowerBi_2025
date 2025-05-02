@@ -1,0 +1,13 @@
+Consigna del Proyecto del Día 12
+--------------------------------
+
+¡Felicidades por llegar hasta aquí!  Un nuevo día más que se acaba, y nada mejor en mi opinión que un buen desafío para terminar de asentar este torbellino de nuevos conocimientos que has adquirido. Así que prepárate y presta mucha atención a las indicaciones (ya que serán bastante precisas) para que puedas llevarlas a cabo.
+
+Te propongo el siguiente desafío: descarga el cuerpo de datos que viene junto a esta lección, y utiliza tus nuevos conocimientos de DAX para calcular, para cada país, qué porcentaje de ventas de más de una unidad se realizan sobre el total de ventas que ese país tiene. Si por ejemplo, Colombia hubiera realizado 4 ventas en el periodo, y solo una de ellas hubiera sido de más de una unidad vendida (este dato se encuentra en el campo Cantidad), mientras que todas las demás ventas fueron de solamente una unidad, entonces el valor para Colombia sería de 25% (en otras palabras, esto quiere decir que el 25% de las ventas de Colombia son por más de una unidad).
+
+Luego, calcula cómo ha cambiado ese porcentaje entre 2024 y 2025 para cada país, y muestra todos estos resultados en una matriz. Nada más, ni nada menos, que eso.
+
+Recuerda emplear medidas, cuando lo necesites ayúdate con medidas rápidas y con la función CALCULATE, y finalmente optimiza tu expresión empleando variables. 
+
+Al finalizar, responde a las preguntas del proyecto de hoy.
+

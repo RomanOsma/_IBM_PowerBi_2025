@@ -1,0 +1,52 @@
+PREGUNTA 1
+----------
+¿Cuál fue el mes con la mayor cantidad de ventas en unidades de productos? ¿Y cuál fue el mes con la menor cantidad?
+
+Mayo, Septiembre
+
+PREGUNTA 2
+----------
+¿Cuál fue el mes con la mayor facturación? ¿Y el de menor facturación?
+
+Mayo, June
+
+PREGUNTA 3
+----------
+¿Cuáles son los 3 productos con la mayor cantidad de unidades vendidas durante todo el periodo?
+
+bicicletas	233
+gafas de sol	220
+teléfonos	214
+
+
+PREGUNTA 4
+----------
+En el mes de julio, ¿cuántas unidades de auriculares inalámbricos se vendieron? ¿Qué porcentaje representan del total de unidades vendidas de todos los productos en ese mes?
+
+52 13,16%
+
+PREGUNTA 5
+----------
+¿Cómo estuvieron compuestas las ventas de productos de belleza y cuidado personal en el mes de julio? ¿Y en todo el periodo analizado?
+
+Producto	Cantidad	%
+
+Julio
+
+perfume		18		56
+crema		14		44
+
+Año
+
+Secador		88		32
+Perfume		68		25
+Crema		66		24
+Paleta		45		17
+Cepillo		06		2
+
+
+PREGUNTA 6
+----------
+¿Qué tendencia muestra la facturación de los productos de "Hogar y jardín" durante todo el periodo analizado?
+
+decreciente

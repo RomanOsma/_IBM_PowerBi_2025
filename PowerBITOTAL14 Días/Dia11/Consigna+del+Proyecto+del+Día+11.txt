@@ -1,0 +1,12 @@
+Consigna del Proyecto del Día 11
+--------------------------------
+
+Llegó la hora de poner a prueba una vez más nuestros conocimientos, y hoy tenemos un desafío muy interesante por delante. Vas a recibir los datos del producto bruto interno de varios países (expresados en su moneda nacional) y también información sobre su población. Antes que nada es importante aclarar que esta información es ficticia y que fue desarrollada solo a fines pedagógicos.
+
+Lo que tu deberás hacer es calcular el PBI per cápita (es decir, el Producto Bruto Interno por habitante). Este valor tiene que estar expresado en dólares estadounidenses (a fines de que sean valores comparables entre países), y luego debes mostrarlo en un gráfico de dispersión, donde un eje sea la población, el otro el PBI per cápita calculado, y cada punto represente a un país. El tamaño de esos puntos debe ser proporcional a su PBI en millones de dólares estadounidenses.
+
+De más está decir que deberás recurrir a DAX y al modelo de datos para crear las relaciones necesarias entre las tablas, y calcular los datos que necesitas para llegar a la visualización de la consigna. Una vez hecho eso, vas a tener que responder un par de preguntas para comprobar si tus resultados son correctos.
+
+Junto a esta lección, te dejaré para que te descargues no solamente los datos necesarios para trabajar, sino también la consigna de trabajo y las preguntas que deberás responder.
+
+Lo importante es que explores, que te diviertas, e incluso que te equivoques: de esa manera tendrá lugar el verdadero aprendizaje. Estás conociendo nuevas herramientas, y es probable que te encuentres con desafíos, que no serán otra cosa que la señal de que estás saliendo de tu zona de confort y adquiriendo nuevas habilidades. Disfruta del proyecto, pon música agradable, recarga tu taza de café, te, mate o lo que sea, y te deseo muchos éxitos en la solución.

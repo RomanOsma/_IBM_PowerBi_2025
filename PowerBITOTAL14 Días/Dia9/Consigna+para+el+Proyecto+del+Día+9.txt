@@ -1,0 +1,24 @@
+Consigna para el Proyecto dle Día 9
+-----------------------------------
+
+Suficientes aprendizajes por hoy ¿verdad? Me he quedado con ganas de mostrarte un par de temas más en Power Query, pero los vamos a dejar para mañana, que es un día que también se trae cosas nuevas y muy interesantes. Valoro mucho todo el esfuerzo que has realizado para llegar hasta aquí, y creo que ya es un buen momento para que pongas en práctica lo aprendido.
+
+El día de hoy te voy a presentar 3 archivos con información que vas a usar para representar la evolución de las cotizaciones de las acciones de 5 empresas muy importantes, todas ellas de algún modo ligadas a la tecnología y la innovación.
+
+Tu objetivo consistirá en tomar los dos archivos XML que contienen los datos diarios del precio de la acción en un periodo determinado, y deberás combinarlos en una única tabla de datos, de modo tal que finalmente puedas graficar el periodo completo en una sola visualización de Power BI.
+
+Sin embargo, para que la información sea más interpretable para un público general, te pediré que, a través de combinaciones y transformaciones en Power Query, logres representar el nombre de cada empresa y sus símbolos de cotización de la siguiente manera. Este es el ejemplo para el caso de TESLA: 
+
+------------------
+Tesla Inc (TSLA) 
+------------------
+
+Es decir, el nombre de la empresa, y entre paréntesis el nombre de su símbolo en la bolsa.
+
+Una advertencia con relación a este proyecto: vas a necesitar usar tu creatividad para explorar herramientas y resolver problemas, así como para recordar todas las estrategias de transformación y procesamiento de datos en las que hemos trabajado tanto ayer como hoy. Recuerda que puedes verificar los datos de origen en el bloc de notas para revisar que la importación se realice correctamente y con la configuración regional adecuada. Recuerda también que tus datos deben tener una forma determinada para poder graficarse correctamente.
+
+No dudes en consultar las lecciones previas nuevamente para repasar cualquier concepto que necesites reforzar para enfrentar este proyecto. Tampoco dudes en abrir el cuestionario siguiente y mantenerlo abierto a medida que vas avanzando para obtener una guía de cada paso a lo largo del camino, y una vez que termines, no dudes en pasar a la lección donde te muestro cómo lo he resuelto yo.
+
+Estoy seguro de que vas a realizar tu mejor esfuerzo para ponerte a prueba, eso me llena de orgullo, ya que es el resultado de todo lo que has avanzado en estos 9 días. No pierdas de vista eso. Quiero que seas consciente de tus propios logros, porque en definitiva progresamos para sentirnos mejor con nosotros mismos.
+
+Te deseo muchos éxitos, y te estaré esperando al final del día.
