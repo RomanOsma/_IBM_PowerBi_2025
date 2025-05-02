@@ -1,0 +1,6 @@
+CREDITS TO EXCELISFUN: https://www.youtube.com/channel/UCkndrGoNpUDV-uia6a9jwVg
+
+Server:		pond.highline.edu
+Database:	boomdata
+UserName:	excelisfun
+Password:	ExcelIsFun!

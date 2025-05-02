@@ -33,5 +33,4 @@ __pycache__/
 *.mkv
 *.csv
 *.json
-*.xlsx
 *.pbix

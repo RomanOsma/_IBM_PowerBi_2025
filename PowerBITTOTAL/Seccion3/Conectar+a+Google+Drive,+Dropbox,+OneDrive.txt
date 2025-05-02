@@ -1,0 +1,41 @@
+ - - - - - - Cargar desde Google Drive (Sheets) - - - - - - 
+
+Generar enlace publico
+
+https://docs.google.com/spreadsheets/d/e/2PACX-1vScBbVwNY9hW-FyCwGpPPXcya_B5wW6sfNjUQqtQ-yNXkZs9HTDqzw_b7WF814knupqCnI6uNGrL6NS/pub?output=xlsx
+
+
+
+ - - - - - - Cargar desde Dropbox (personal) - - - - - - 
+
+https://www.dropbox.com/s/e036miz85schuoc/FotosAgentes.xlsx?dl=0
+
+Cambiar www por dl
+
+https://dl.dropbox.com/s/e036miz85schuoc/FotosAgentes.xlsx?dl=0
+
+
+
+ - - - - - - Cargar desde OneDrive (personal) - - - - - - 
+
+Agregar download? entre .com/ y resid
+Agregar al final: &app=Excel
+
+https://onedrive.live.com/download?resid=28D459BB9EA384FD%21691&authkey=AJRJnm8EnYosCCY&em=2&app=Excel
+
+https://onedrive.live.com/personal/4f9f69ca4700d8e4/_layouts/15/Doc.aspx?sourcedoc=%7B274bae75-18cd-49c3-8172-a29ca8ecdd3c%7D&action=default&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy80ZjlmNjljYTQ3MDBkOGU0L0VYV3VTeWZOR01OSmdYS2luS2pzM1R3QjRRUzlyMTdCNElFWmR0RlJfczFhbVE_ZT03cjVKQXo&slrid=d5458aa1-b049-b000-d8fe-cc1ff3004a7d&originalPath=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy80ZjlmNjljYTQ3MDBkOGU0L0VYV3VTeWZOR01OSmdYS2luS2pzM1R3QjRRUzlyMTdCNElFWmR0RlJfczFhbVE_cnRpbWU9OE1UT2dwUmkzVWc&CID=5df42df1-e401-4efa-a73c-7cd3b679df09&_SRM=0:G:42
+
+<iframe width="402" height="346" frameborder="0" scrolling="no" src="https://1drv.ms/x/c/4f9f69ca4700d8e4/IQR1rksnzRjDSYFyopyo7N08AZ2zpT4g4eVbNoXIosfTpn4?em=2&wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
+
+
+
+ - - - - - - Cargar desde OneDrive (Business) - - - - - - 
+
+1) Ruta de enlace:
+https://docs.microsoft.com/es-es/power-bi/connect-data/desktop-use-onedrive-business-links
+https://www.youtube.com/watch?v=t4TzHu8THoA
+
+
+2) Carpeta de Sharepoint:
+https://www.poweredsolutions.co/es/2019/04/04/conectar-a-archivos-en-sharepoint-y-onedrive-con-power-bi-power-query/
+https://www.youtube.com/watch?v=cxRacjMb47I

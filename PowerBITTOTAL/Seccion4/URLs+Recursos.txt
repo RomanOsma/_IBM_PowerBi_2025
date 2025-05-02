@@ -1,0 +1,14 @@
+Kaggle:
+https://www.kaggle.com/residentmario/iowa-liquor-sales
+
+Iowa Data:
+https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy
+
+Disable Power Query background refresh:
+https://docs.microsoft.com/en-us/power-bi/guidance/power-query-background-refresh
+
+Chris Webb - Power Query, Power BI And The “Allow Data Preview To Download In The Background” Option
+https://blog.crossjoin.co.uk/2016/12/05/power-query-power-bi-and-the-allow-data-preview-to-download-in-the-background-option/
+
+Power BI – Quick Tips working with multiple large CSV Files
+https://gqbi.wordpress.com/2016/10/25/power-bi-quick-tips-working-with-multiple-large-csv-files/

@@ -1,0 +1,18 @@
+Dim_Calendar DAX = ADDCOLUMNS (
+CALENDAR ( DATE( YEAR ( MIN ( FactTable[Fecha])), 01, 01), DATE( YEAR( MAX( FactTable[Fecha] ) ), 12, 31 ) ),
+"FechaSK", FORMAT ( [Date], "YYYYMMDD" ),
+"#Año", YEAR ( [Date] ),
+"#Trimestre", QUARTER ( [Date] ),
+"#Mes", MONTH ( [Date] ),
+"#Día", DAY ( [Date] ),
+"Trimestre", "T" & FORMAT ( [Date], "Q" ), 
+"Mes", FORMAT ( [Date], "MMMM" ),
+"MesCorto", FORMAT ( [Date], "MMM" ),
+"#DíaSemana", WEEKDAY ( [Date],2 ),
+"#SemanaAño", WEEKNUM ( [Date],2 ),
+"CierreSemana", ( [Date] + 7 - WEEKDAY( [Date],2 ) ),
+"Día", FORMAT ( [Date], "DDDD" ),
+"DíaCorto", FORMAT ( [Date], "DDD" ),
+"AñoTrimestre", FORMAT ( [Date], "YYYY" ) & "/T" & FORMAT ( [Date], "Q" ),
+"Año#Mes", FORMAT ( [Date], "YYYY/MM" ),
+"AñoMesCorto", FORMAT ( [Date], "YYYY/mmm" ) )
