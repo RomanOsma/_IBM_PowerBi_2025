@@ -134,6 +134,6 @@ htmlcov/
 
 # Jupyter runtime
 ~$*
-
-# Ignorar archivos de Power BI
+*.mp4
+*.mkv
 *.pbix
